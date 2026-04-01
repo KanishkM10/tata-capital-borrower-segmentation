@@ -58,7 +58,7 @@ The analysis spans the full data science workflow: quality checks, EDA, visualis
 | 3 | Boxplot | Interest Coverage Ratio by Repayment Track — Excellent = high ICR; NPA = critically low and volatile ICR |
 | 4 | Grouped Bar | Loan Type by Geographic Region — Term Loans dominate; West/North have higher Working Capital concentration |
 | 5 | Heatmap | Mean numerical features by Business Sector — IT & Healthcare lead on Credit Score and ICR; Real Estate & Infrastructure show elevated D/E and DPD |
-| 6 | Violin Plot | Collateral Coverage % by Company Size — Micro/Small show under-collateralised tail below 100%; Large shows tighter, more uniform coverage |
+| 6 | Boxplot | Collateral Coverage % by Company Size — Micro/Small show under-collateralised tail below 100%; Large shows tighter, more uniform coverage |
 
 ---
 
